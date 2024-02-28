@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Danielle Rosenthal and I am a data scientist, technologist, and graudate student in computer science and public policy at the University of Chicago.
+
 <!--
 **RosenthalDL/RosenthalDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
